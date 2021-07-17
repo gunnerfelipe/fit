@@ -120,3 +120,7 @@ ul{
     padding-left: 50px;
     padding-bottom: 10px;
 }
+summary{
+    font-size: 16 px;
+    color:grey
+}
